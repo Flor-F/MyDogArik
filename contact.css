@@ -1,0 +1,11 @@
+body {
+  background-image: url("arikback.jpg");
+  color: orange;
+  background-color:black;
+  font-family:Berlin Sans FB;
+  font-size:40px;
+  text-align:center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
